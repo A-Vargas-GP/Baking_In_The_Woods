@@ -37,17 +37,19 @@ Program Used:
 
 CREDITS:
 
-- House Build: https://assetstore.unity.com/packages/3d/environments/urban/furnished-cabin-7142...
+- House Build:
 
--Skybox Shaders:
+https://assetstore.unity.com/packages/3d/environments/urban/furnished-cabin-7142...
+
+- Skybox Shaders:
 
 https://assetstore.unity.com/packages/2d/textures-materials/sky/skybox-series-fr...
 
--Trees:
+- Trees:
 
 https://assetstore.unity.com/packages/3d/vegetation/trees/realistic-tree-9-rainb...
 
--Ingredient assets were made using Maya and Photoshop (self-made)
+- Ingredient assets were made using Maya and Photoshop (self-made)
 
 
 **Created in the fall of 2020
