@@ -50,6 +50,6 @@ https://assetstore.unity.com/packages/3d/vegetation/trees/realistic-tree-9-rainb
 -Ingredient assets were made using Maya and Photoshop (self-made)
 
 
-#Created in the fall of 2020
+*Created in the fall of 2020
 
-#Not all Unity files are inserted here.
+*Not all Unity files are inserted here.
