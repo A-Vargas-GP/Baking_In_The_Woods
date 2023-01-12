@@ -56,4 +56,5 @@ To view a playable build, please navigate to the following webpage: [Baking In T
 
 
 Project created in the fall of 2020
-**Not all Unity files are inserted at this time.
+
+*Not all Unity files are inserted at this time.
