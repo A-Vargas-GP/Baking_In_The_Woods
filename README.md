@@ -1,57 +1,59 @@
-# Baking_In_The_Woods
+# Baking In The Woods
 
-Controls:
+## Table of Contents
+- [Objective](#objective)
+- [Project Controls](#controls)
+- [Author Notes](#author-notes)
+- [Recommendation](#recommendations)
+- [Current Prototype](#project-website)
+- [Programs Used](#programs-used)
+- [Credits](#credits)
+
+# Objective
+Within a forest scenery, navigate into a wood cabin and experience the tranquil feeling of baking.
+
+Acquire the required ingredients to construct a loaf of bread!
+
+# Controls
 
 - Mouse (to move the camera around)
 
 - W/A/S/D  OR   Up/Down/Right/Left arrow keys  (move the player around)
 
 
+# Author Notes
 
-Objective:
+- Most of the cabinets cannot be opened since they do not have attached animators.
 
-- Acquire (aka left-click) the required ingredients to construct a loaf of bread!
-
-
-
-Side notes:
-
-- Most of the cabinets cannot be opened since they do not have animators
-
-- The sink cannot be used for water! (since that'd be too easy >:] )
+- The sink cannot be used for water!
 
 
-
-Recommendations:
+# Recommendations
 
 - Ideal browsers are Firefox and Chrome
-
 - Not suggested to use Safari
 
-
-Program Used:
+# Programs Used
 - Unity
 - Photoshop
 - Autodesk Maya
 
+# Project Website
 
-CREDITS:
+To view a playable build, please navigate to the following webpage: [Baking In The Woods](https://a-varg.itch.io/baking-in-the-woods)
 
-- House Build:
+# Credits
 
-https://assetstore.unity.com/packages/3d/environments/urban/furnished-cabin-7142...
+- [House Build](https://assetstore.unity.com/packages/3d/environments/urban/furnished-cabin-7142...)
 
-- Skybox Shaders:
+- [Skybox Shaders](https://assetstore.unity.com/packages/2d/textures-materials/sky/skybox-series-fr...)
 
-https://assetstore.unity.com/packages/2d/textures-materials/sky/skybox-series-fr...
+- [Trees](https://assetstore.unity.com/packages/3d/vegetation/trees/realistic-tree-9-rainb...)
 
-- Trees:
-
-https://assetstore.unity.com/packages/3d/vegetation/trees/realistic-tree-9-rainb...
-
-- Ingredient assets were made using Maya and Photoshop (self-made)
+- Ingredient assets
+    - Self-made
+    - Created using Maya and Photoshop
 
 
-**Created in the fall of 2020
-
-**Not all Unity files are inserted here.
+Project created in the fall of 2020
+**Not all Unity files are inserted at this time.
